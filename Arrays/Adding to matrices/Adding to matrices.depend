@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\arrays\adding to matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587907698 source:c:\users\code_ostrich\documents\c programs\arrays\adding to matrices\adding to matrices.c
+	<stdio.h>
+	<stdlib.h>
+

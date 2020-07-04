@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\complex numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589472447 source:c:\users\code_ostrich\documents\c programs\c college examples\complex numbers\complex numbers.c
+	<stdio.h>
+

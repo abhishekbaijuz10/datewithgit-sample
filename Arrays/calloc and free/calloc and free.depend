@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587875856 source:c:\users\code_ostrich\documents\c programs\arrays\calloc and free\calloc and free.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587584626 source:c:\users\code_ostrich\documents\c programs\no arg no ret val.c\no arg no ret cal.c
+	<stdio.h>
+	<stdlib.h>
+

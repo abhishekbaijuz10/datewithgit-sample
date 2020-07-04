@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\prime numbers within a range\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589636170 source:c:\users\code_ostrich\documents\c programs\c college examples\prime numbers within a range\prime numbers within a range.c
+	<stdio.h>
+

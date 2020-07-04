@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\number of words ina sent\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588613687 source:c:\users\code_ostrich\documents\c programs\c college examples\number of words ina sent\number of words ina sent.c
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\strings\reverse a string using recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587991986 source:c:\users\code_ostrich\documents\c programs\strings\reverse a string using recursion\reverse a string using recursion.c
+	<stdio.h>
+

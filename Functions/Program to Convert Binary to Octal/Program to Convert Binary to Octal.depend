@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587709928 source:c:\users\code_ostrich\documents\c programs\program to convert binary to octal\program to convert binary to octal.c
+	<stdio.h>
+	<math.h>
+

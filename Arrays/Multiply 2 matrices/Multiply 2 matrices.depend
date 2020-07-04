@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587908176 source:c:\users\code_ostrich\documents\c programs\arrays\multiply 2 matrices\multiply 2 matrices.c
+	<stdio.h>
+	<stdlib.h>
+

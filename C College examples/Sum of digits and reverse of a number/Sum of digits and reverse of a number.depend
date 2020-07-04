@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\sum of digits and reverse of a number\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588395951 source:c:\users\code_ostrich\documents\c programs\c college examples\sum of digits and reverse of a number\sum of digits and reverse of a number.c
+	<stdio.h>
+

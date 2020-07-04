@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\dsa\sss\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1592455300 source:c:\users\code_ostrich\documents\c programs\dsa\sss\ss.c
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\arrays\passing pointers to functions\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587788980 source:c:\users\code_ostrich\documents\c programs\arrays\passing pointers to functions\passing pointers to functions.c
+	<stdio.h>
+	<stdlib.h>
+

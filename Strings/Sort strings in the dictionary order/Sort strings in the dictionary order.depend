@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\strings\sort strings in the dictionary order\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588077323 source:c:\users\code_ostrich\documents\c programs\strings\sort strings in the dictionary order\sort strings in the dictionary order.c
+	<stdio.h>
+

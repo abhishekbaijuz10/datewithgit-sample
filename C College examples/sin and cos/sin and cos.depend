@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588770030 source:c:\users\code_ostrich\documents\c programs\c college examples\sin and cos\sin and cos.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

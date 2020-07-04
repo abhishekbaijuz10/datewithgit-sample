@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\find number of words in a sentence\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588426074 source:c:\users\code_ostrich\documents\c programs\c college examples\find number of words in a sentence\find number of words in a sentence.c
+	<stdio.h>
+

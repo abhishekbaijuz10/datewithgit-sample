@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590152219 source:c:\users\code_ostrich\documents\c programs\c college examples\sting replace\sting replace.c
+	<stdio.h>
+	<string.h>
+

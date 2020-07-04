@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\pyramid using star\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588612755 source:c:\users\code_ostrich\documents\c programs\c college examples\pyramid using star\pyramid using star.c
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\scientific calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1590411562 source:c:\users\code_ostrich\documents\c programs\c college examples\scientific calculator\scientific calculator..c
+	<stdio.h>
+	<stdio.h>
+

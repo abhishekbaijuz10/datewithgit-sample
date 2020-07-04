@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587585841 source:c:\users\code_ostrich\documents\c programs\arg anda ret val\arg anda ret val.c
+	<stdio.h>
+	<stdlib.h>
+

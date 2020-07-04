@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\c college examples\display the short form of a string.\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588953837 source:c:\users\code_ostrich\documents\c programs\c college examples\display the short form of a string\display the short form of a string..c
+	<stdio.h>
+	<string.h>
+

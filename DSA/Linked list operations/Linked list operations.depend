@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592024875 source:c:\users\code_ostrich\documents\c programs\dsa\linked list operations\linked list operations.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587585270 source:c:\users\code_ostrich\documents\c programs\no args but a ret valu\no args but a ret valu.c
+	<stdio.h>
+	<stdlib.h>
+

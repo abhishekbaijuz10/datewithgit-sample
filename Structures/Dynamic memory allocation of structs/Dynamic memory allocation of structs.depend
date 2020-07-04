@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\structures\dynamic memory allocation of structs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588081133 source:c:\users\code_ostrich\documents\c programs\structures\dynamic memory allocation of structs\dynamic memory allocation of structs.c
+	<stdio.h>
+	<stdlib.h>
+

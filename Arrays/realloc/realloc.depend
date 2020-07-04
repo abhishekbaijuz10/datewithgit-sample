@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\arrays\realloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587876939 source:c:\users\code_ostrich\documents\c programs\arrays\realloc\realoloc.c
+	<stdio.h>
+	<stdlib.h>
+

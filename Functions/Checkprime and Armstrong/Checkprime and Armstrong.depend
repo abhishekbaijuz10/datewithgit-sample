@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587572174 source:c:\users\code_ostrich\documents\c programs\checkprime and armstrong\checkprime and armstrong.c
+	<stdio.h>
+	<stdlib.h>
+

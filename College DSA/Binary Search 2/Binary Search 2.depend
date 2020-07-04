@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\college dsa\binary search 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593500696 source:c:\users\code_ostrich\documents\c programs\college dsa\binary search 2\binary search 2.c
+	<stdio.h>
+	<conio.h>
+
