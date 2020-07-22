@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\college dsa\string sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594181441 source:c:\users\code_ostrich\documents\c programs\college dsa\string sorting\string sorting.c
+	<stdio.h>
+	<string.h>
+

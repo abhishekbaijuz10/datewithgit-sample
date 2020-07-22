@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\college dsa\pattern matching\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594711112 source:c:\users\code_ostrich\documents\c programs\college dsa\pattern matching\pattern matching.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\college dsa\sparse matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1595313362 source:c:\users\code_ostrich\documents\c programs\college dsa\sparse matrix\sparse matrix.c
+	<stdio.h>
+	<conio.h>
+
