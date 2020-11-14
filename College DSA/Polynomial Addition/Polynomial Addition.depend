@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\college dsa\polynomial addition\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1598338756 source:c:\users\code_ostrich\documents\c programs\college dsa\polynomial addition\polynomial addition.c
+	<stdio.h>
+	<conio.h>
+

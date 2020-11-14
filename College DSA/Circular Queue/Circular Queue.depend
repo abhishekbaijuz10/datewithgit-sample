@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\college dsa\circular queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1596524112 source:c:\users\code_ostrich\documents\c programs\college dsa\circular queue\circular queue.c
+	<stdio.h>
+	<conio.h>
+

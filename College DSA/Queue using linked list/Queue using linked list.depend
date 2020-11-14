@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\code_ostrich\documents\c programs\college dsa\queue using linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1600162862 source:c:\users\code_ostrich\documents\c programs\college dsa\queue using linked list\queue using linked list.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
